@@ -1,0 +1,17 @@
+Edit it one of your files:
+
+pico <file name>.txt
+
+Type some content into the .txt file, then save it.
+
+Add the file to the staging environment:
+
+git add <file name>.txt
+
+Now commit this change to GitHub:
+
+git commit -m <new comment>
+
+Push this branch:
+
+git push origin <new branch name>
